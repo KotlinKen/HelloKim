@@ -4,5 +4,6 @@ public class Test2 {
 
 	
 	private String member ; 
+	private String who;
 
 }
